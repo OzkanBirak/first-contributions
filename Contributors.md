@@ -15,6 +15,7 @@
 - [Tamilarasan](https://github.com/tamizhasn)
 - [Sai Krishna Kotha](https://github.com/sai-krishna-kotha)
 - [Meet Mehta](https://github.com/MeetInCode)
+- [Vasu Nandan](https://github.com/phoenixvasu)
 - [Karthikeyen K](https://github.com/KARTHIKEYEN14)
 - [Balaji Balakrishnan](https://github.com/balajibalakris)
 - [Alvaro Garcia](https://github.com/alvarofelipe12)
@@ -151,6 +152,7 @@
 - [Vyshnavi Jammi](https://github.com/vyshnaviJammi)
 - [Donnie Pereira](https://github.com/DonniePereira)
 - [Timon Kayser](https://github.com/txmxn)
+- [Rahul Bhujbal](https://github.com/Rahul9766)
 - [Ayush Jadaun](https://github.com/ayush-jadaun)
 - [Karuna Nikam](https://github.com/krunanikam)
 - [Kaung Min Htet](https://github.com/kaungminhtet-swe)
@@ -1742,6 +1744,7 @@
 - [Khaled](https://github.com/khd22)
 - [lit-cup](https://github.com/lit-cup)
 - [Acefa](https://github.com/Acefa)
+- [Anany Singh](https://github.com/Deadeye102000)
 - [Mohammed Sufiyan Ahmed](https://github.com/Sufiyan-MSA)
 - [Atul Patil](https://github.com/atulpatildev)
 - [Adity Pandey](https://github.com/adityapandey13-yours)
@@ -1753,3 +1756,4 @@
 - [DPrakashh](https://github.com/DPrakashh)
 - [Atharva-Gurav](https://github.com/Guri10)
 - [Gnaneswar Lopinti](https://github.com/flying-spagetti)
+-Charles Sigxakuma 
